@@ -1,4 +1,4 @@
-OIBSIP Python Programming Internship Projects
+OIBSIP Internship Tasks
 
 This repository contains Python Programming internship projects completed for Oasis Infobyte.
 
@@ -25,6 +25,14 @@ A Python voice/text assistant that responds to basic commands and provides cyber
 Task 3: Secure Chat Application
 
 A Python chat application that demonstrates client-server communication with a security-focused explanation.
+
+Data Analytics Internship
+
+Tasks will be added here.
+
+Cyber Security Internship
+
+Tasks will be added here.
 
 Author
 
