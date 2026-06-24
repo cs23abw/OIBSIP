@@ -52,7 +52,18 @@ A Python chat application that demonstrates basic client-server communication wi
 
 ## Data Analytics Internship
 
-### Planned Tasks
+### Completed Tasks
+
+#### Task 1: Cleaning Data
+
+A data cleaning project using the New York City Airbnb dataset. The task involved checking missing values, duplicated records, data types, invalid prices, and outliers before saving a cleaned dataset.
+
+project folder:
+
+''' text
+Data Analytics/Cleaning Data
+
+#### Upcoming Tasks
 
 #### Task 1: Fraud Detection
 
@@ -62,9 +73,6 @@ A data analytics project focused on identifying suspicious or fraudulent activit
 
 A text analytics project that classifies sentiment in text data and explains how similar techniques can support cyber security awareness and scam-report analysis.
 
-#### Task 3: Cleaning Data
-
-A data cleaning project focused on handling missing values, duplicates, inconsistent formatting, and unreliable records.
 
 ## Cyber Security Internship
 
