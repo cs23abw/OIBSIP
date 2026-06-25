@@ -40,11 +40,17 @@ Project folder:
 Python Programming/task-1- Random password generator
 ```
 
-### Upcoming Tasks
-
 #### Task 2: Voice Assistant
 
-A Python voice/text assistant that responds to basic commands and provides cyber security awareness information.
+A Python voice assistant that listens to voice commands, responds using voice output, tells the time and date, opens websites, searches the web, and exits safely.
+
+Project folder:
+
+```text
+Python Programming/Voice Assistant
+```
+
+### Upcoming Tasks
 
 #### Task 3: Chat Application
 
@@ -96,7 +102,7 @@ Project folder:
 
 ```text
 Cyber security/Basic Firewall Configuration with UFW
-
+```
 ### Upcoming Tasks
 
 #### Task 3: Capture Network Traffic with Wireshark
